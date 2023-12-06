@@ -1,0 +1,92 @@
+Time: Wed Dec 06 09:58:20 EST 2023
+Error code: 2
+Message: A Power Outage!
+
+Time: Wed Dec 06 09:59:12 EST 2023
+Error code: 2
+Message: A Power Outage!
+
+Time: Wed Dec 06 10:03:09 EST 2023
+Error code: 2
+Message: A Power Outage!
+
+Time: Wed Dec 06 10:04:52 EST 2023
+Error code: 2
+Message: A Power Outage!
+
+Time: Wed Dec 06 10:06:32 EST 2023
+Error code: 0
+Message: Manual Trigger for Testing
+
+Time: Wed Dec 06 10:14:14 EST 2023
+Error code: 0
+Message: Emergency Shutdown Button was Pressed
+
+Time: Wed Dec 06 10:46:54 EST 2023
+Error code: 0
+Message: Emergency Shutdown Button was Pressed
+
+Time: Wed Dec 06 11:13:09 EST 2023
+Error code: 0
+Message: Emergency Shutdown Button was Pressed
+
+Time: Wed Dec 06 11:23:07 EST 2023
+Error code: 2
+Message: A Power Outage!
+
+Time: Wed Dec 06 11:25:35 EST 2023
+Error code: 0
+Message: Emergency Shutdown Button was Pressed
+
+Time: Wed Dec 06 11:25:52 EST 2023
+Error code: 1
+Message: A Window Malfunction Detected!
+
+Time: Wed Dec 06 11:26:29 EST 2023
+Error code: 2
+Message: A Power Outage!
+
+Time: Wed Dec 06 11:33:22 EST 2023
+Error code: 2
+Message: A Power Outage!
+
+Time: Wed Dec 06 11:35:23 EST 2023
+Error code: 2
+Message: A Power Outage!
+
+Time: Wed Dec 06 11:37:34 EST 2023
+Error code: 2
+Message: A Power Outage!
+
+Time: Wed Dec 06 11:38:36 EST 2023
+Error code: 2
+Message: A Power Outage!
+
+Time: Wed Dec 06 11:44:21 EST 2023
+Error code: 2
+Message: A Power Outage!
+
+Time: Wed Dec 06 11:45:57 EST 2023
+Error code: 2
+Message: A Power Outage!
+
+Time: Wed Dec 06 11:47:32 EST 2023
+Error code: 2
+Message: A Power Outage!
+
+Time: Wed Dec 06 11:49:01 EST 2023
+Error code: 2
+Message: A Power Outage!
+
+Time: Wed Dec 06 11:53:00 EST 2023
+Error code: 2
+Message: A Power Outage!
+
+Time: Wed Dec 06 15:07:28 EST 2023
+Error code: 2
+Message: A Power Outage!
+
+Time: Wed Dec 06 15:25:08 EST 2023
+Error code: 2
+Message: A Power Outage!
+

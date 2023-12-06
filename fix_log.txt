@@ -1,0 +1,237 @@
+Timestamp: Mon Dec 04 15:43:55 EST 2023
+Nature of Fix: Power On, Error Codes Reset
+
+Timestamp: Mon Dec 04 15:55:07 EST 2023
+Nature of Fix: Power On, Error Codes Reset
+
+Timestamp: Mon Dec 04 16:05:21 EST 2023
+Nature of Fix: Power On, Error Codes Reset
+
+Timestamp: Mon Dec 04 16:10:09 EST 2023
+Nature of Fix: Power On, Error Codes Reset
+
+Timestamp: Mon Dec 04 16:16:39 EST 2023
+Nature of Fix: Power On, Error Codes Reset
+
+Timestamp: Mon Dec 04 16:21:01 EST 2023
+Nature of Fix: Power On, Error Codes Reset
+
+Timestamp: Mon Dec 04 16:25:53 EST 2023
+Nature of Fix: Power On, Error Codes Reset
+
+Timestamp: Mon Dec 04 16:35:06 EST 2023
+Nature of Fix: Power On, Error Codes Reset
+
+Timestamp: Mon Dec 04 17:15:08 EST 2023
+Nature of Fix: Power On, Error Codes Reset
+
+Timestamp: Mon Dec 04 18:59:37 EST 2023
+Nature of Fix: Power On, Error Codes Reset
+
+Timestamp: Mon Dec 04 19:06:09 EST 2023
+Nature of Fix: Power On, Error Codes Reset
+
+Timestamp: Mon Dec 04 19:10:59 EST 2023
+Nature of Fix: Power On, Error Codes Reset
+
+Timestamp: Mon Dec 04 19:19:27 EST 2023
+Nature of Fix: Power On, Error Codes Reset
+
+Timestamp: Mon Dec 04 19:26:45 EST 2023
+Nature of Fix: Power On, Error Codes Reset
+
+Timestamp: Mon Dec 04 19:29:03 EST 2023
+Nature of Fix: Power On, Error Codes Reset
+
+Timestamp: Mon Dec 04 19:53:08 EST 2023
+Nature of Fix: Power On, Error Codes Reset
+
+Timestamp: Mon Dec 04 19:57:26 EST 2023
+Nature of Fix: Power On, Error Codes Reset
+
+Timestamp: Mon Dec 04 21:23:18 EST 2023
+Nature of Fix: Power On, Error Codes Reset
+
+Timestamp: Mon Dec 04 21:40:45 EST 2023
+Nature of Fix: Power On, Error Codes Reset
+
+Timestamp: Mon Dec 04 21:41:23 EST 2023
+Nature of Fix: Power On, Error Codes Reset
+
+Timestamp: Tue Dec 05 11:21:21 EST 2023
+Nature of Fix: Power On, Error Codes Reset
+
+Timestamp: Tue Dec 05 19:07:01 EST 2023
+Nature of Fix: Power On, Error Codes Reset
+
+Timestamp: Tue Dec 05 19:32:48 EST 2023
+Nature of Fix: Power On, Error Codes Reset
+
+Timestamp: Tue Dec 05 19:36:05 EST 2023
+Nature of Fix: Power On, Error Codes Reset
+
+Timestamp: Tue Dec 05 19:39:40 EST 2023
+Nature of Fix: Power On, Error Codes Reset
+
+Timestamp: Tue Dec 05 19:43:02 EST 2023
+Nature of Fix: Power On, Error Codes Reset
+
+Timestamp: Tue Dec 05 19:50:09 EST 2023
+Nature of Fix: Power On, Error Codes Reset
+
+Timestamp: Tue Dec 05 19:59:01 EST 2023
+Nature of Fix: Power On, Error Codes Reset
+
+Timestamp: Tue Dec 05 20:00:46 EST 2023
+Nature of Fix: Power On, Error Codes Reset
+
+Timestamp: Tue Dec 05 20:08:07 EST 2023
+Nature of Fix: Power On, Error Codes Reset
+
+Timestamp: Tue Dec 05 20:13:26 EST 2023
+Nature of Fix: Window Fixed, Error Codes Reset
+
+Timestamp: Tue Dec 05 20:16:40 EST 2023
+Nature of Fix: Power On, Error Codes Reset
+
+Timestamp: Tue Dec 05 20:37:11 EST 2023
+Nature of Fix: Power On, Error Codes Reset
+
+Timestamp: Tue Dec 05 20:50:42 EST 2023
+Nature of Fix: Power On, Error Codes Reset
+
+Timestamp: Tue Dec 05 20:55:06 EST 2023
+Nature of Fix: Power On, Error Codes Reset
+
+Timestamp: Tue Dec 05 21:05:57 EST 2023
+Nature of Fix: Power On, Error Codes Reset
+
+Timestamp: Tue Dec 05 21:08:02 EST 2023
+Nature of Fix: Power On, Error Codes Reset
+
+Timestamp: Tue Dec 05 21:09:03 EST 2023
+Nature of Fix: Power On, Error Codes Reset
+
+Timestamp: Tue Dec 05 21:12:53 EST 2023
+Nature of Fix: Power On, Error Codes Reset
+
+Timestamp: Tue Dec 05 21:21:10 EST 2023
+Nature of Fix: Power On, Error Codes Reset
+
+Timestamp: Tue Dec 05 21:27:07 EST 2023
+Nature of Fix: Power On, Error Codes Reset
+
+Timestamp: Tue Dec 05 21:38:07 EST 2023
+Nature of Fix: Power On, Error Codes Reset
+
+Timestamp: Tue Dec 05 21:39:40 EST 2023
+Nature of Fix: Power On, Error Codes Reset
+
+Timestamp: Tue Dec 05 21:59:30 EST 2023
+Nature of Fix: Power On, Error Codes Reset
+
+Timestamp: Tue Dec 05 22:03:36 EST 2023
+Nature of Fix: Power On, Error Codes Reset
+
+Timestamp: Tue Dec 05 22:15:49 EST 2023
+Nature of Fix: Power On, Error Codes Reset
+
+Timestamp: Tue Dec 05 22:39:18 EST 2023
+Nature of Fix: Power On, Error Codes Reset
+
+Timestamp: Tue Dec 05 23:02:31 EST 2023
+Nature of Fix: Power On, Error Codes Reset
+
+Timestamp: Tue Dec 05 23:10:13 EST 2023
+Nature of Fix: Power On, Error Codes Reset
+
+Timestamp: Tue Dec 05 23:11:34 EST 2023
+Nature of Fix: Power On, Error Codes Reset
+
+Timestamp: Tue Dec 05 23:12:40 EST 2023
+Nature of Fix: Power On, Error Codes Reset
+
+Timestamp: Tue Dec 05 23:13:30 EST 2023
+Nature of Fix: Power On, Error Codes Reset
+
+Timestamp: Tue Dec 05 23:15:44 EST 2023
+Nature of Fix: Power On, Error Codes Reset
+
+Timestamp: Tue Dec 05 23:17:03 EST 2023
+Nature of Fix: Power On, Error Codes Reset
+
+Timestamp: Tue Dec 05 23:19:43 EST 2023
+Nature of Fix: Window Fixed, Error Codes Reset
+
+Timestamp: Wed Dec 06 07:50:03 EST 2023
+Nature of Fix: Window Fixed, Error Codes Reset
+
+Timestamp: Wed Dec 06 07:53:21 EST 2023
+Nature of Fix: Window Fixed, Error Codes Reset
+
+Timestamp: Wed Dec 06 08:07:11 EST 2023
+Nature of Fix: Window Fixed, Error Codes Reset
+
+Timestamp: Wed Dec 06 08:08:31 EST 2023
+Nature of Fix: Power On, Error Codes Reset
+
+Timestamp: Wed Dec 06 08:17:04 EST 2023
+Nature of Fix: Power On, Error Codes Reset
+
+Timestamp: Wed Dec 06 08:20:37 EST 2023
+Nature of Fix: Power On, Error Codes Reset
+
+Timestamp: Wed Dec 06 09:56:28 EST 2023
+Nature of Fix: Power On, Error Codes Reset
+
+Timestamp: Wed Dec 06 09:57:14 EST 2023
+Nature of Fix: Power On, Error Codes Reset
+
+Timestamp: Wed Dec 06 09:58:29 EST 2023
+Nature of Fix: Power On, Error Codes Reset
+
+Timestamp: Wed Dec 06 09:59:24 EST 2023
+Nature of Fix: Power On, Error Codes Reset
+
+Timestamp: Wed Dec 06 10:03:19 EST 2023
+Nature of Fix: Power On, Error Codes Reset
+
+Timestamp: Wed Dec 06 11:23:25 EST 2023
+Nature of Fix: Power On, Error Codes Reset
+
+Timestamp: Wed Dec 06 11:27:06 EST 2023
+Nature of Fix: Power On, Error Codes Reset
+
+Timestamp: Wed Dec 06 11:33:40 EST 2023
+Nature of Fix: Power On, Error Codes Reset
+
+Timestamp: Wed Dec 06 11:35:41 EST 2023
+Nature of Fix: Power On, Error Codes Reset
+
+Timestamp: Wed Dec 06 11:37:43 EST 2023
+Nature of Fix: Power On, Error Codes Reset
+
+Timestamp: Wed Dec 06 11:38:45 EST 2023
+Nature of Fix: Power On, Error Codes Reset
+
+Timestamp: Wed Dec 06 11:44:30 EST 2023
+Nature of Fix: Power On, Error Codes Reset
+
+Timestamp: Wed Dec 06 11:46:10 EST 2023
+Nature of Fix: Power On, Error Codes Reset
+
+Timestamp: Wed Dec 06 11:48:09 EST 2023
+Nature of Fix: Power On, Error Codes Reset
+
+Timestamp: Wed Dec 06 11:49:17 EST 2023
+Nature of Fix: Power On, Error Codes Reset
+
+Timestamp: Wed Dec 06 11:53:08 EST 2023
+Nature of Fix: Power On, Error Codes Reset
+
+Timestamp: Wed Dec 06 15:07:40 EST 2023
+Nature of Fix: Power On, Error Codes Reset
+
+Timestamp: Wed Dec 06 15:25:24 EST 2023
+Nature of Fix: Power On, Error Codes Reset
+
